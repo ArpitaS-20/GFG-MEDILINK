@@ -1,4 +1,24 @@
-# GFG-MEDILINK
+## GFG-MEDILINK
+
+# MEDILINK
+## Team Members:-
+### Arpita Sukhwal
+### Rhea Billava
+# Problem Statement:
+### Access to quality healthcare services is a fundamental human right, yet many people around the world struggle with limited access to reliable health information, qualified healthcare professionals, and affordable medical care. Furthermore, the COVID-19 pandemic has exposed weaknesses in healthcare systems worldwide, emphasizing the need for better healthcare delivery and access to health information. In this context, a health-tech website can play a critical role in addressing these challenges by providing accessible and accurate health information, connecting patients with qualified healthcare providers, and facilitating access to affordable medical care.The solution should leverage technology to provide personalized, real-time guidance and support, while also enabling users to connect with healthcare providers and access relevant resources. The solution should also address issues of accessibility and affordability, ensuring that everyone has the opportunity to improve their health regardless of their socioeconomic status.
+
+## Answer:
+## We have designed and developed a health tech website that addresses the challenges of healthcare accessibility and affordability in underserved communities. The website provides a platform for users to access reliable and accurate healthcare information, connect with healthcare providers, and access affordable healthcare services.
+## Key Features of our website include :
+## Healthcare Information: The website provides users with accurate and reliable healthcare information. The information is presented in an easy-to-understand format, and users can search for specific topics. Users can search for services by location and type of service. Our website prioritizesuser security and privacy.
+## Google Map: This website includes google cloud map which will help users to find hospitals easily.
+## Health-Tech Bot: A health-tech bot, based on new AI technology is added to our website. Here are a few possible ways it could work:
+### Health information: The bot could provide information about various health topics such as symptoms, treatments, and preventive measures. Users can ask the bot questions related to their healthconcerns, and the bot could provide reliable and accurate information based on established medical guidelines.
+### Appointment scheduling: The bot could help users schedule appointments with healthcare professionals. Users can provide their availability, and the bot could recommend available slots based on the user's location and the healthcare professional's availability.
+## Telemedicine Services: The website offers telemedicine services, allowing users to connect with healthcare providers remotely. This feature will be particularly useful for people who live in remote areas or have difficulty accessing traditional healthcare services.
+## User Accounts: Users should be able to create accounts on the website, which will allow them to save their search history, track their appointments, and uploadtheir reports so that they can easily access their reports at any time and receive notifications about healthcare news and events.
+## Mobile-Friendly Design: The website is designed as mobile-friendly, as many users may access it using their smartphones or tablets.
+## Add reviews and see reviews: The website is designed in such a way that we can have easy access to the review section.
 
 # HOMEPAGE
 ## As soon as you load the website your location access will be asked as we have designed this website for users to access hospitals located in Goa.
